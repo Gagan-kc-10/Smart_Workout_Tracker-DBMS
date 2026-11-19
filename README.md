@@ -2,7 +2,7 @@
 
 A full-stack workout and fitness tracking application for members, trainers, and administrators. Users can follow workout plans, record completed sessions, and review their fitness activity; trainers and administrators have tools for managing members and plans.
 
-**Repository:** [Gagan-kc-10/Smart-Workout-Tracker](https://github.com/Gagan-kc-10/Smart-Workout-Tracker)
+**Repository:** [Gagan-kc-10/Smart-Workout-Tracker](https://github.com/Gagan-kc-10/Smart_Workout_Tracker-DBMS)
 
 ## Contents
 
@@ -204,3 +204,4 @@ npm run lint
 - Use a unique, strong `JWT_SECRET` and a strong administrator password.
 - The SQL dumps contain sample records; review the data before using them outside a local development environment.
 - The frontend API URL and Redis address are currently configured for local development and need configuration changes for a different deployment environment.
+
