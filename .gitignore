@@ -1,8 +1,24 @@
+# Dependencies
 node_modules/
+**/node_modules/
+
+# Environment variables and secrets
 .env
 .env.*
+**/.env
+**/.env.*
 !.env.example
+
+# Sensitive files
+backend/adminHash.txt
+
+# Build output
 dist/
+**/dist/
 build/
-.DS_Store
+**/build/
+
+# Logs and system files
 *.log
+.DS_Store
+Thumbs.db
